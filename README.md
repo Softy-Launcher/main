@@ -7,8 +7,3 @@
 >Run init.c0 to get code to a specific directory
 
 </p>
-
->>> from markdown import Markdown
->>> markdown = Markdown(extensions=['fontawesome_markdown']
->>> markdown.convert('I love Softy :fa-coffee:')
-<p align="center"> I love Softy <i class="fa fa-coffee"></i></p>
